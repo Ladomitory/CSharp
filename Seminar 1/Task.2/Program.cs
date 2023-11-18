@@ -4,7 +4,7 @@
 long number, result;
 Console.Write("Your number: ");
 // получение изначального числа
-number = long.Parse(Console.ReadLine());
+number = Convert.ToInt64(Console.ReadLine());
 //вычисление результата
 result = number * number;
 Console.WriteLine("Rasult: " + result);
