@@ -7,15 +7,15 @@ int N = Convert.ToInt32(Console.ReadLine());
 // int negativN = -N;
 // while (negativN <= N) {
 //     Console.Write(negativN + " ");
-//     negativN += 1;
+//     negativN++;
 // }
 
 // int negativN = -N;
 // do {
 //     Console.Write(negativN + " ");
-//     negativN += 1;
+//     negativN++;
 // } while (negativN <= N);
 
-for (int negativN = -N; nagativN <= N; negativN += 1) {
+for (int negativN = -N; negativN <= N; negativN++) {
     Console.Write(negativN + " ");
 }
