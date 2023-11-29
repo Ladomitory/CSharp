@@ -1,0 +1,14 @@
+E:\ladomitory\Users\Ladomitory\Projects\IT projects\For Study\GeekBrains\CSharp\HomeWork.4\Task.3\obj\Debug\net7.0\Task.3.GeneratedMSBuildEditorConfig.editorconfig
+E:\ladomitory\Users\Ladomitory\Projects\IT projects\For Study\GeekBrains\CSharp\HomeWork.4\Task.3\obj\Debug\net7.0\Task.3.AssemblyInfoInputs.cache
+E:\ladomitory\Users\Ladomitory\Projects\IT projects\For Study\GeekBrains\CSharp\HomeWork.4\Task.3\obj\Debug\net7.0\Task.3.AssemblyInfo.cs
+E:\ladomitory\Users\Ladomitory\Projects\IT projects\For Study\GeekBrains\CSharp\HomeWork.4\Task.3\obj\Debug\net7.0\Task.3.csproj.CoreCompileInputs.cache
+E:\ladomitory\Users\Ladomitory\Projects\IT projects\For Study\GeekBrains\CSharp\HomeWork.4\Task.3\bin\Debug\net7.0\Task.3.exe
+E:\ladomitory\Users\Ladomitory\Projects\IT projects\For Study\GeekBrains\CSharp\HomeWork.4\Task.3\bin\Debug\net7.0\Task.3.deps.json
+E:\ladomitory\Users\Ladomitory\Projects\IT projects\For Study\GeekBrains\CSharp\HomeWork.4\Task.3\bin\Debug\net7.0\Task.3.runtimeconfig.json
+E:\ladomitory\Users\Ladomitory\Projects\IT projects\For Study\GeekBrains\CSharp\HomeWork.4\Task.3\bin\Debug\net7.0\Task.3.dll
+E:\ladomitory\Users\Ladomitory\Projects\IT projects\For Study\GeekBrains\CSharp\HomeWork.4\Task.3\bin\Debug\net7.0\Task.3.pdb
+E:\ladomitory\Users\Ladomitory\Projects\IT projects\For Study\GeekBrains\CSharp\HomeWork.4\Task.3\obj\Debug\net7.0\Task.3.dll
+E:\ladomitory\Users\Ladomitory\Projects\IT projects\For Study\GeekBrains\CSharp\HomeWork.4\Task.3\obj\Debug\net7.0\refint\Task.3.dll
+E:\ladomitory\Users\Ladomitory\Projects\IT projects\For Study\GeekBrains\CSharp\HomeWork.4\Task.3\obj\Debug\net7.0\Task.3.pdb
+E:\ladomitory\Users\Ladomitory\Projects\IT projects\For Study\GeekBrains\CSharp\HomeWork.4\Task.3\obj\Debug\net7.0\Task.3.genruntimeconfig.cache
+E:\ladomitory\Users\Ladomitory\Projects\IT projects\For Study\GeekBrains\CSharp\HomeWork.4\Task.3\obj\Debug\net7.0\ref\Task.3.dll
