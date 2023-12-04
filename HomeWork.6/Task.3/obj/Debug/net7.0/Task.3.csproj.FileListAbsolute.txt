@@ -1,0 +1,14 @@
+C:\Users\holmogorov.r\Documents\ProgProj\GeekBrains\CSharp\CSharp\HomeWork.6\Task.3\obj\Debug\net7.0\Task.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\holmogorov.r\Documents\ProgProj\GeekBrains\CSharp\CSharp\HomeWork.6\Task.3\obj\Debug\net7.0\Task.3.AssemblyInfoInputs.cache
+C:\Users\holmogorov.r\Documents\ProgProj\GeekBrains\CSharp\CSharp\HomeWork.6\Task.3\obj\Debug\net7.0\Task.3.AssemblyInfo.cs
+C:\Users\holmogorov.r\Documents\ProgProj\GeekBrains\CSharp\CSharp\HomeWork.6\Task.3\obj\Debug\net7.0\Task.3.csproj.CoreCompileInputs.cache
+C:\Users\holmogorov.r\Documents\ProgProj\GeekBrains\CSharp\CSharp\HomeWork.6\Task.3\bin\Debug\net7.0\Task.3.exe
+C:\Users\holmogorov.r\Documents\ProgProj\GeekBrains\CSharp\CSharp\HomeWork.6\Task.3\bin\Debug\net7.0\Task.3.deps.json
+C:\Users\holmogorov.r\Documents\ProgProj\GeekBrains\CSharp\CSharp\HomeWork.6\Task.3\bin\Debug\net7.0\Task.3.runtimeconfig.json
+C:\Users\holmogorov.r\Documents\ProgProj\GeekBrains\CSharp\CSharp\HomeWork.6\Task.3\bin\Debug\net7.0\Task.3.dll
+C:\Users\holmogorov.r\Documents\ProgProj\GeekBrains\CSharp\CSharp\HomeWork.6\Task.3\bin\Debug\net7.0\Task.3.pdb
+C:\Users\holmogorov.r\Documents\ProgProj\GeekBrains\CSharp\CSharp\HomeWork.6\Task.3\obj\Debug\net7.0\Task.3.dll
+C:\Users\holmogorov.r\Documents\ProgProj\GeekBrains\CSharp\CSharp\HomeWork.6\Task.3\obj\Debug\net7.0\refint\Task.3.dll
+C:\Users\holmogorov.r\Documents\ProgProj\GeekBrains\CSharp\CSharp\HomeWork.6\Task.3\obj\Debug\net7.0\Task.3.pdb
+C:\Users\holmogorov.r\Documents\ProgProj\GeekBrains\CSharp\CSharp\HomeWork.6\Task.3\obj\Debug\net7.0\Task.3.genruntimeconfig.cache
+C:\Users\holmogorov.r\Documents\ProgProj\GeekBrains\CSharp\CSharp\HomeWork.6\Task.3\obj\Debug\net7.0\ref\Task.3.dll
