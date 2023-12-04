@@ -31,6 +31,8 @@ printMatrix(matrix);
 while(true) {
     Console.Write("Введите позицию элемента через пробел: ");
     string?[] stringPosition = Console.ReadLine().Split(" ");
+    //я не придумал как добавить проверку, на то что введено менее 2ух чисел,
+    //если у вас есть идеи, хотел бы обсудить
     int[] position = new int[2];
     if (int.TryParse(stringPosition[0], out int result0)) {
         position[0] = result0;
