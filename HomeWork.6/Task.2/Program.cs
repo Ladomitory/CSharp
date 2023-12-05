@@ -2,7 +2,7 @@
 // Задайте строку, содержащую латинские буквы в обоих регистрах. 
 // Сформируйте строку, в которой все заглавные буквы заменены на строчные.
 
-string generationString() {
+string GenerationString() {
     Random random = new Random();
     string newString = "";
     int stringLength = 10;
@@ -20,7 +20,7 @@ string ToLower(string originString) {
     return finalString;
 }
 
-string originString = generationString();
+string originString = GenerationString();
 Console.WriteLine(originString);
 string finalString = ToLower(originString);
 Console.WriteLine(finalString);

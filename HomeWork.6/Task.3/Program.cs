@@ -2,7 +2,7 @@
 // Задайте произвольную строку. 
 // Выясните, является ли она палиндромом.
 
-string generationString() {
+string GenerationString() {
     Random random = new Random();
     string newString = "";
     int stringLength = random.Next(1, 10);
@@ -12,7 +12,7 @@ string generationString() {
     return newString;
 }
 
-string originString = generationString();
+string originString = GenerationString();
 bool polindrom = true;
 for (int index = 0; index < originString.Length; index++) {
     if (originString[index] != originString[originString.Length - 1 - index]) {

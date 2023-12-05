@@ -2,7 +2,7 @@
 // Задайте двумерный массив символов (тип char [,]). 
 // Создать строку из символов этого массива.
 
-char[,] generationNewmatrix() {
+char[,] GenerationNewmatrix() {
     Random random = new Random();
     char[,] matrix = new char[random.Next(1, 5), random.Next(1, 5)];
     for (int row = 0; row < matrix.GetLength(0); row++) {
@@ -13,7 +13,7 @@ char[,] generationNewmatrix() {
     return matrix;
 }
 
-void printMatrix(char[,] matrix) {
+void PrintMatrix(char[,] matrix) {
     Console.Write("[");
     for (int row = 0; row < matrix.GetLength(0); row++) {
         Console.Write("\n[ ");
@@ -25,8 +25,8 @@ void printMatrix(char[,] matrix) {
     Console.WriteLine("\n]");
 }
 
-char[,] charMatrix = generationNewmatrix();
-printMatrix(charMatrix);
+char[,] charMatrix = GenerationNewmatrix();
+PrintMatrix(charMatrix);
 string stringFromCharMatrix = "";
 for (int row = 0; row < charMatrix.GetLength(0); row++) {
     for (int column = 0; column < charMatrix.GetLength(1); column++) {
